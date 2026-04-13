@@ -4,3 +4,7 @@ Please cite "Multi-modal transformer for rgb-d salient object detection. ICIP 20
 
 # Prediction Results
 Please download our results [our results](https://pan.baidu.com/s/1FByXgqm05qGOo8KvnuP3yg?pwd=xipi)
+
+# Trained model
+Please download our model file [our model](https://pan.baidu.com/s/1wLRgZ8MzxC4rMtwQKHwDrA?pwd=kkuu)
+
